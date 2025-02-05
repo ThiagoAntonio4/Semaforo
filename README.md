@@ -1,6 +1,8 @@
 # Simulação de Alarme OneShot
 
-Instruções
+Ao apertar o push buttom, os leds acenderão simultaneamente, e desligarão um por um, de baixo pra cima, com um intervalo de 3 segundos.
+
+## Instruções
 - **1°:** Clone o repositório para sua máquina local:
 - **2°:** git clone <https://github.com/YasminCruz001/Temporizador-One-Shot-.git>
 - **3°:** Abra o projeto no VS Code.
